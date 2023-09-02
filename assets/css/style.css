@@ -628,7 +628,8 @@ section {
   text-align: center;
   transition: 0.3s;
   height: 100%;
-  color: #F7B3CC;
+  color: #F3E7D7;
+  font:black
 }
 
 .values .box img {
