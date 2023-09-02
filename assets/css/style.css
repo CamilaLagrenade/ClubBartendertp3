@@ -650,7 +650,7 @@ section {
 .values .box:hover img {
   transform: scale(1);
 }
-.about .content {
+.values .content {
   background-color: #F7B3CC;
   padding: 40px;
 }
