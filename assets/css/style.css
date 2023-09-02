@@ -14,7 +14,7 @@
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Sansita", sans-serif;
   color: #444444;
 }
 
@@ -28,7 +28,9 @@ a:hover {
   text-decoration: none;
 }
 
-h1,
+h1{
+   font-family:"Sansita", sans-serif}
+
 h2,
 h3,
 h4,
