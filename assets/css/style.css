@@ -73,10 +73,11 @@ font-weight: 400;
 .section-header p {
   margin: 10px 0 0 0;
   padding: 15px;
-  font-size: 38px;
+  font-size: 29px;
   line-height: 42px;
   font-weight: 700;
   color: #000000;
+  font-family: "Sansita" sans-serif;
 }
 
 @media (max-width: 768px) {
