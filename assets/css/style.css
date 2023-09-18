@@ -509,8 +509,8 @@ text-transform: uppercase;
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #EE583F;
-  box-shadow: 0px 5px 30px rgba(236, 7, 7, 0.4);
+  background: #2D56A2;
+  box-shadow: 0px 5px 30px rgba(6, 3, 167, 0.4);
 }
 
 .hero .btn-get-started span {
@@ -608,8 +608,8 @@ text-transform: uppercase;
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #EE583F;
-  box-shadow: 0px 5px 25px rgba(209, 73, 31, 0.3);
+  background: #2D56A2;
+  box-shadow: 0px 5px 25px rgba(10, 38, 161, 0.3);
 }
 
 .about .btn-read-more span {
@@ -634,11 +634,10 @@ text-transform: uppercase;
 --------------------------------------------------------------*/
 .values .box {
   padding: 30px;
-  box-shadow: 0px 0 5px rgba(1, 41, 112, 0.08);
   text-align: center;
   transition: 0.3s;
   height: 100%;
-  background-color: #F3E7D7;
+  background-color: #FAEAD8;
   font:black
 }
 
