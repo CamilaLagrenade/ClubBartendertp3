@@ -27,7 +27,9 @@ a:hover {
   color: #717ff5;
   text-decoration: none;
 }
-
+p{
+  font-family: "Poppins", sans-serif;
+}
 h1{
    font-family:"Sansita", sans-serif color #000;
 font-size: 80px;
@@ -187,7 +189,7 @@ font-weight: 400;
 }
 
 .header.header-scrolled {
-  background: #F3A632;
+  background: #FFB703;
   padding: 15px 0;
   box-shadow: 0px 2px 20px rgba(1, 41, 112, 0.1);
 }
@@ -205,8 +207,8 @@ font-weight: 400;
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
-  font-family: "Nunito", sans-serif;
+  color: #030303;
+  font-family: "Poppins", sans-serif;
   margin-top: 3px;
 }
 
@@ -490,7 +492,7 @@ font-weight: 400;
   margin: 0;
   color: #000;
 font-family: "Sansita" sans-serif;
-font-size: 70px;
+font-size: 65px;
 font-style: normal;
 font-weight: 600;
 text-transform: uppercase;
