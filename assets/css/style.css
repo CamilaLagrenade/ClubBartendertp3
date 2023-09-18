@@ -49,7 +49,7 @@ h6 {
 section {
   padding: 60px 0;
   overflow: hidden;
-  background-color: #f3e7d8;
+  background-color: #FAEAD8;
 }
 
 .section-header {
@@ -663,7 +663,7 @@ text-transform: uppercase;
   transform: scale(1);
 }
 .values {
-  background-color: #F7B3CC;
+  background-color: #FAEAD8;
   padding: 40px;
 }
 
