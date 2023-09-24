@@ -15,7 +15,7 @@
 
 body {
   font-family: "Sansita", sans-serif;
-  color: #444444;
+  color: #000000;
 }
 
 a {
@@ -24,7 +24,7 @@ a {
 }
 
 a:hover {
-  color: #717ff5;
+  color: #fd7424;
   text-decoration: none;
 }
 p{
@@ -75,7 +75,7 @@ font-weight: 400;
 }
 
 .section-header p {
-  margin: 10px 0 0 0;
+  margin: -6px 0 0 0;
   padding: 15px;
   font-size: 29px;
   line-height: 42px;
@@ -1466,7 +1466,7 @@ text-transform: uppercase;
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background: #FAEAD8;
   padding: 60px 0;
 }
 
@@ -1491,7 +1491,6 @@ text-transform: uppercase;
   bottom: 0;
   height: 100%;
   width: 100%;
-  background: url(../img/team-shape.svg) no-repeat center bottom;
   background-size: contain;
   z-index: 1;
 }
