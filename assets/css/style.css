@@ -380,7 +380,7 @@ font-weight: 400;
 }
 
 /**
-* Mobile Navigation 
+*   Navigation 
 */
 .mobile-nav-toggle {
   color: #012970;
@@ -412,7 +412,7 @@ font-weight: 400;
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(1, 22, 61, 0.9);
+  background:#ED6C29;
   transition: 0.3s;
 }
 
@@ -646,6 +646,64 @@ text-transform: uppercase;
   transform: translateX(5px);
 }
 
+
+
+/*# Aboutdetalle
+--------------------------------------------------------------*/
+.about .content {
+  padding: 40px;
+}
+
+.about h3 {
+  font-size: 14px;
+  font-weight: 700;
+  color: #020202;
+  font-family: "Sansita"sans-serif;
+}
+
+.about h2 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #ED6C29;
+  font-family:"Sansita", sans-serif;
+}
+
+.about p {
+  margin: 15px 0 30px 0;
+  line-height: 24px;
+  font-family: "Poppins", sans-serif;
+}
+
+.about .btn-read-more {
+  line-height: 0;
+  padding: 9px 20px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #2D56A2;
+  box-shadow: 0px 5px 25px rgba(10, 38, 161, 0.3);
+  font-size: 16px;
+}
+
+.about .btn-read-more span {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.about .btn-read-more i {
+  margin-left: 5px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.about .btn-read-more:hover i {
+  transform: translateX(5px);
+}
+
+
+
 /*--------------------------------------------------------------
 # Values
 --------------------------------------------------------------*/
@@ -855,6 +913,11 @@ text-transform: uppercase;
   text-align: center;
   transition: 0.3s;
   border-radius: 5px;
+  background-color: #FAEAD8;
+}
+
+.services {
+  background-color: #F7B3CC;
 }
 
 .services .service-box .icon {
@@ -869,7 +932,7 @@ text-transform: uppercase;
 }
 
 .services .service-box h3 {
-  color: #444444;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -889,54 +952,54 @@ text-transform: uppercase;
 }
 
 .services .service-box.blue {
-  border-bottom: 3px solid #2db6fa;
+  border-bottom: 3px solid #DB89B6;
 }
 
 .services .service-box.blue .icon {
-  color: #2db6fa;
+  color: #DB89B6;
   background: #dbf3fe;
 }
 
 .services .service-box.blue .read-more {
-  color: #2db6fa;
+  color: #DB89B6;
 }
 
 .services .service-box.blue:hover {
-  background: #2db6fa;
+  background: #DB89B6;
 }
 
 .services .service-box.orange {
-  border-bottom: 3px solid #f68c09;
+  border-bottom: 3px solid #DB89B6;
 }
 
 .services .service-box.orange .icon {
-  color: #f68c09;
+  color: #DB89B6;
   background: #fde3c4;
 }
 
 .services .service-box.orange .read-more {
-  color: #f68c09;
+  color: #DB89B6;
 }
 
 .services .service-box.orange:hover {
-  background: #f68c09;
+  background: #DB89B6;
 }
 
 .services .service-box.green {
-  border-bottom: 3px solid #08da4e;
+  border-bottom: 3px solid #DB89B6;
 }
 
 .services .service-box.green .icon {
-  color: #08da4e;
+  color: #FAEAD8;
   background: #cffddf;
 }
 
 .services .service-box.green .read-more {
-  color: #08da4e;
+  color: #DB89B6;
 }
 
 .services .service-box.green:hover {
-  background: #08da4e;
+  background: #DB89B6;
 }
 
 .services .service-box.red {
@@ -997,7 +1060,7 @@ text-transform: uppercase;
 }
 
 .services .service-box:hover .icon {
-  background: #fff;
+  background: #F7B3CC;
 }
 
 /*--------------------------------------------------------------
