@@ -1237,7 +1237,7 @@
 .ri-lightbulb-flash-line:before { content: "\eea8"; }
 .ri-lightbulb-line:before { content: "\eea9"; }
 .ri-line-chart-fill:before { content: "\eeaa"; }
-.ri-line-chart-line:before { content: "\eeab"; }
+/*.ri-line-chart-line:before { content: "\eeab"; }*/
 .ri-line-fill:before { content: "\eeac"; }
 .ri-line-height:before { content: "\eead"; }
 .ri-line-line:before { content: "\eeae"; }
