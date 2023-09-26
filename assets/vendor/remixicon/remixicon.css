@@ -612,7 +612,7 @@
 .ri-discord-fill:before { content: "\ec37"; }
 .ri-discord-line:before { content: "\ec38"; }
 .ri-discuss-fill:before { content: "\ec39"; }
-.ri-discuss-line:before { content: "\ec3a"; }
+/*.ri-discuss-line:before { content: "\ec3a"; }*/
 .ri-dislike-fill:before { content: "\ec3b"; }
 .ri-dislike-line:before { content: "\ec3c"; }
 .ri-disqus-fill:before { content: "\ec3d"; }
@@ -2385,7 +2385,7 @@
 .ri-expand-right-fill:before { content: "\f324"; }
 .ri-expand-right-line:before { content: "\f325"; }
 .ri-expand-up-down-fill:before { content: "\f326"; }
-.ri-expand-up-down-line:before { content: "\f327"; }
+/*.ri-expand-up-down-line:before { content: "\f327"; }*/
 .ri-flickr-fill:before { content: "\f328"; }
 .ri-flickr-line:before { content: "\f329"; }
 .ri-forward-10-fill:before { content: "\f32a"; }

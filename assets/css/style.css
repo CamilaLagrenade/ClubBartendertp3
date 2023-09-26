@@ -831,7 +831,7 @@ text-transform: uppercase;
   font-size: 20px;
   font-weight: 600;
   color: #DD5F28;
-  font-family: "Poppins"sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .about3 h1 {
@@ -952,6 +952,47 @@ text-transform: uppercase;
   font-family: "Nunito", sans-serif;
   font-size: 14px;
 }
+
+
+
+/*--------------------------------------------------------------
+# Counts
+--------------------------------------------------------------*/
+.mediospago {
+  padding: 70px 0 60px;
+}
+
+.mediospago .count-box {
+  display: flex;
+  align-items: center;
+  padding: 30px;
+  width: 100%;
+  background: #fff;
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+}
+
+.mediospago .count-box i {
+  font-size: 42px;
+  line-height: 0;
+  margin-right: 20px;
+  color: #2D56A2;
+}
+
+.mediospago .count-box span {
+  font-size: 36px;
+  display: block;
+  font-weight: 600;
+  color: #0b198f;
+}
+
+.mediospago .count-box p {
+  padding: 0;
+  margin: 0;
+  font-family: "Nunito", sans-serif;
+  font-size: 14px;
+}
+
+
 
 /*--------------------------------------------------------------
 # Features
@@ -1128,6 +1169,11 @@ p {
   padding: 8px 20px;
 }
 
+img, svg {
+  vertical-align: middle;
+  padding: 20px;
+  margin-bottom: 10px;
+}
 .services .service-box .read-more i {
   line-height: 0;
   margin-left: 5px;
