@@ -297,7 +297,7 @@
 .ri-brush-3-fill:before { content: "\eafc"; }
 .ri-brush-3-line:before { content: "\eafd"; }
 .ri-brush-4-fill:before { content: "\eafe"; }
-.ri-brush-4-line:before { content: "\eaff"; }
+/*.ri-brush-4-line:before { content: "\eaff"; }*/
 .ri-brush-fill:before { content: "\eb00"; }
 .ri-brush-line:before { content: "\eb01"; }
 .ri-bubble-chart-fill:before { content: "\eb02"; }
@@ -482,7 +482,7 @@
 .ri-collage-fill:before { content: "\ebb5"; }
 .ri-collage-line:before { content: "\ebb6"; }
 .ri-command-fill:before { content: "\ebb7"; }
-.ri-command-line:before { content: "\ebb8"; }
+/*.ri-command-line:before { content: "\ebb8"; }*/
 .ri-community-fill:before { content: "\ebb9"; }
 .ri-community-line:before { content: "\ebba"; }
 .ri-compass-2-fill:before { content: "\ebbb"; }
@@ -1300,7 +1300,7 @@
 .ri-macbook-fill:before { content: "\eee7"; }
 .ri-macbook-line:before { content: "\eee8"; }
 .ri-magic-fill:before { content: "\eee9"; }
-.ri-magic-line:before { content: "\eeea"; }
+/*.ri-magic-line:before { content: "\eeea"; }*/
 .ri-mail-add-fill:before { content: "\eeeb"; }
 .ri-mail-add-line:before { content: "\eeec"; }
 .ri-mail-check-fill:before { content: "\eeed"; }
@@ -1654,7 +1654,7 @@
 .ri-quill-pen-fill:before { content: "\f049"; }
 .ri-quill-pen-line:before { content: "\f04a"; }
 .ri-radar-fill:before { content: "\f04b"; }
-.ri-radar-line:before { content: "\f04c"; }
+/*.ri-radar-line:before { content: "\f04c"; }*/
 .ri-radio-2-fill:before { content: "\f04d"; }
 .ri-radio-2-line:before { content: "\f04e"; }
 .ri-radio-button-fill:before { content: "\f04f"; }
@@ -1963,7 +1963,7 @@
 .ri-spy-fill:before { content: "\f17e"; }
 .ri-spy-line:before { content: "\f17f"; }
 .ri-stack-fill:before { content: "\f180"; }
-.ri-stack-line:before { content: "\f181"; }
+/*.ri-stack-line:before { content: "\f181"; }*/
 .ri-stack-overflow-fill:before { content: "\f182"; }
 .ri-stack-overflow-line:before { content: "\f183"; }
 .ri-stackshare-fill:before { content: "\f184"; }
