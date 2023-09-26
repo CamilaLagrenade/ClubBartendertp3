@@ -104,7 +104,7 @@ font-weight: 400;
   background: #F7B3CC;
   min-height: 40px;
   margin-top: 82px;
-  color: #fff;
+  color: #000000;
 }
 
 @media (max-width: 992px) {
@@ -818,6 +818,64 @@ text-transform: uppercase;
 .about .btn-read-more:hover i {
   transform: translateX(5px);
 }
+
+
+/*--------------------------------------------------------------
+# About3
+--------------------------------------------------------------*/
+.about3 .content {
+  padding: 40px;
+}
+
+.about3 h3 {
+  font-size: 20px;
+  font-weight: 600;
+  color: #DD5F28;
+  font-family: "Poppins"sans-serif;
+}
+
+.about3 h1 {
+  font-size: 44px;
+  font-weight: 600;
+  color: #000000;
+  font-family:"Sansita", sans-serif;
+}
+
+.about3 p {
+  margin: 15px 0 30px 0;
+  line-height: px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.about3 .btn-read-more {
+  line-height: 0;
+  padding: 9px 20px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #2D56A2;
+  box-shadow: 0px 5px 25px rgba(10, 38, 161, 0.3);
+  font-size: 16px;
+}
+
+.about3 .btn-read-more span {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.about3 .btn-read-more i {
+  margin-left: 5px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.about3 .btn-read-more:hover i {
+  transform: translateX(5px);
+}
+
 
 
 
@@ -1826,7 +1884,7 @@ p {
 
 .recent-blog-posts .post-box .post-title {
   font-size: 24px;
-  color: #012970;
+  color: #FFB703;
   font-weight: 700;
   margin-bottom: 18px;
   position: relative;
