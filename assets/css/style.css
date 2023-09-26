@@ -101,7 +101,7 @@ font-weight: 400;
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background: #012970;
+  background: #F7B3CC;
   min-height: 40px;
   margin-top: 82px;
   color: #fff;
@@ -592,6 +592,118 @@ text-transform: uppercase;
     width: 100%;
   }
 }
+
+
+
+/*--------------------------------------------------------------
+# Hero Section DETALLE
+--------------------------------------------------------------*/
+
+.herodetalle {
+  width: 100%;
+  height: 100vh;
+  background: url(../img/nuevas/fondoherodetalle.png) top center no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+
+
+
+
+.herodetalle h1 {
+  margin: 0;
+  color: #000;
+font-family: "Sansita" sans-serif;
+font-size: 45px;
+font-style: normal;
+font-weight: 400;
+text-transform: uppercase;
+}
+
+.herodetalle h2 {
+  color: #f36a0f;
+  margin: 41px 0 20px 0;
+  font-size: 22px;
+  font-weight: 400;
+  font-family: "Poppins" sans-serif;
+}
+
+.herodetalle .btn-get-started {
+  margin-top: 30px;
+  line-height: 0;
+  padding: 15px 40px;
+  border-radius: 4px;
+  transition: 0.5s;
+  color: #fff;
+  background: #2D56A2;
+  box-shadow: 0px 5px 30px rgba(6, 3, 167, 0.4);
+}
+
+.herodetalle .btn-get-started span {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.herodetalle .btn-get-started i {
+  margin-left: 5px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.herodetalle .btn-get-started:hover i {
+  transform: translateX(5px);
+}
+
+.herodetalle .hero-img {
+  text-align: right;
+}
+
+@media (min-width: 1024px) {
+  .herodetalle {
+    background-attachment: fixed;
+  }
+}
+
+@media (max-width: 991px) {
+  .herodetalle {
+    height: auto;
+    padding: 120px 0 60px 0;
+  }
+
+  .herodetalle .hero-img {
+    text-align: center;
+    margin-top: 80px;
+  }
+
+  .herodetalle .hero-img img {
+    width: 80%;
+  }
+}
+
+@media (max-width: 768px) {
+  .herodetalle {
+    text-align: center;
+  }
+
+  .herodetalle h1 {
+    font-size: 28px;
+  }
+
+  .herodetalle h2 {
+    font-size: 16px;
+  }
+
+  .herodetalle .hero-img img {
+    width: 100%;
+  }
+}
+
+
+
+
+
 
 /*--------------------------------------------------------------
 # Index Page
