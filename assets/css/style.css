@@ -492,6 +492,8 @@ font-weight: 400;
 # Hero Section
 --------------------------------------------------------------*/
 
+
+
 .hero {
   width: 100%;
   height: 100vh;
@@ -562,7 +564,7 @@ text-transform: uppercase;
 @media (max-width: 991px) {
   .hero {
     height: auto;
-    padding: 120px 0 60px 0;
+    padding: 0px 0 60px 0;
   }
 
   .hero .hero-img {
@@ -578,6 +580,11 @@ text-transform: uppercase;
 @media (max-width: 768px) {
   .hero {
     text-align: center;
+    width: 100%;
+    height: 100vh;
+    background: url(../img/heroprueba.png) top center no-repeat;
+    background-size: cover;
+    background-position: top;
   }
 
   .hero h1 {
@@ -767,7 +774,7 @@ text-transform: uppercase;
 
 /*# Aboutdetalle
 --------------------------------------------------------------*/
-.about .content {
+.aboutdetalle .content {
   padding: 40px;
 }
 
