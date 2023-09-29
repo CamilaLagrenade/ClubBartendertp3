@@ -431,7 +431,7 @@ font-weight: 400;
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #ffffff;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -440,7 +440,7 @@ font-weight: 400;
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #012970;
+  color: #2D56A2;
 }
 
 .navbar-mobile a:hover,
@@ -719,7 +719,7 @@ text-transform: uppercase;
 # About
 --------------------------------------------------------------*/
 .about .content {
-  padding: 40px;
+  padding: 50px;
 }
 
 .about h3 {
@@ -842,7 +842,7 @@ text-transform: uppercase;
 }
 
 .about3 h1 {
-  font-size: 44px;
+  font-size: 43px;
   font-weight: 600;
   color: #000000;
   font-family:"Sansita", sans-serif;
